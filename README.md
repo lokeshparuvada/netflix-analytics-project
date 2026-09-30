@@ -2,31 +2,20 @@
 
 # 🎬 Netflix Analytics Project
 
-### **From Raw Data → SQL Analytics → Visualization → Machine Learning**
+### From Raw Data → SQL Analytics → Visualization → Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-</p>
+An end-to-end data analytics pipeline for exploring Netflix content trends and predicting future Movie & TV Show release counts.
 
-<p>
-  <strong>An end-to-end data analytics pipeline for exploring Netflix content trends and predicting future Movie & TV Show release counts.</strong>
-</p>
+---
 
-<p>
-  <a href="#-overview">Overview</a> •
-  <a href="#-features">Features</a> •
-  <a href="#️-architecture">Architecture</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-setup">Setup</a> •
-  <a href="#-usage">Usage</a>
-</p>
+## 🔗 Navigation
 
-</div>
+[Overview](#overview) •
+[Features](#features) •
+[Architecture](#architecture) •
+[Screenshots](#screenshots) •
+[Setup](#setup) •
+[Usage](#usage)
 
 ---
 

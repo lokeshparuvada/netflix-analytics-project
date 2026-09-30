@@ -8,16 +8,6 @@ An end-to-end data analytics pipeline for exploring Netflix content trends and p
 
 ---
 </div>
-## 🔗 Navigation
-
-[Overview](#overview) •
-[Features](#features) •
-[Architecture](#architecture) •
-[Screenshots](#screenshots) •
-[Setup](#setup) •
-[Usage](#usage)
-
----
 
 ## 📑 Table of Contents
 
@@ -31,7 +21,6 @@ An end-to-end data analytics pipeline for exploring Netflix content trends and p
 * [📊 SQL Analytics](#-sql-analytics)
 * [📈 Visualization](#-visualization)
 * [🤖 Machine Learning](#-machine-learning)
-* [📸 Screenshots](#-screenshots)
 * [🚀 Setup](#-setup)
 * [▶️ Usage](#️-usage)
 * [🖥️ Sample Output](#️-sample-output)

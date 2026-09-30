@@ -405,64 +405,8 @@ R² Score → ...
 ```
 
 > **Note:** The prediction is a model-based estimate derived from historical data. It should not be interpreted as an actual Netflix production forecast.
-
 ---
 
-# 📸 Screenshots
-
-Add your generated charts to a `screenshots/` directory:
-
-```text
-screenshots/
-├── movies_vs_tv_shows.png
-├── tv_show_trend.png
-├── movie_trend.png
-└── prediction_output.png
-```
-
-Then embed them here.
-
-## 🎬 Movies vs TV Shows
-
-<p align="center">
-  <img src="screenshots/movies_vs_tv_shows.png"
-       alt="Movies vs TV Shows by Release Year"
-       width="85%">
-</p>
-
----
-
-## 📺 TV Show Trend
-
-<p align="center">
-  <img src="screenshots/tv_show_trend.png"
-       alt="TV Shows by Release Year"
-       width="85%">
-</p>
-
----
-
-## 🎥 Movie Trend
-
-<p align="center">
-  <img src="screenshots/movie_trend.png"
-       alt="Movies by Release Year"
-       width="85%">
-</p>
-
----
-
-## 🤖 Prediction Output
-
-<p align="center">
-  <img src="screenshots/prediction_output.png"
-       alt="Machine Learning Prediction Output"
-       width="70%">
-</p>
-
-> 💡 If the screenshots are not yet available, simply create the folder and add the generated images after running the project.
-
----
 
 # 🚀 Setup
 

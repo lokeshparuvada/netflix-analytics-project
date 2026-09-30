@@ -7,7 +7,7 @@
 An end-to-end data analytics pipeline for exploring Netflix content trends and predicting future Movie & TV Show release counts.
 
 ---
-
+</div>
 ## 🔗 Navigation
 
 [Overview](#overview) •
